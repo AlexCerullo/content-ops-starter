@@ -198,7 +198,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/images.png
-        altText: Image alt text placeholder
+        altText: 'HTML, CSS, JS'
         elementId: ''
         styles:
           self:
