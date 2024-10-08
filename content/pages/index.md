@@ -191,7 +191,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Sql_data_base_with_logo.png
-        altText: Image alt text placeholder
+        altText: SQL
         elementId: ''
         styles:
           self:
