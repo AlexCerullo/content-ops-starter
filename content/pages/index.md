@@ -178,9 +178,6 @@ sections:
       - url: /images/C_Logo.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
       - type: ImageBlock
         url: /images/ISO_C++_Logo.svg.png
         altText: Image alt text placeholder
