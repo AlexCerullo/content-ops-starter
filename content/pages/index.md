@@ -178,9 +178,6 @@ sections:
       - url: /images/C_Logo.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
