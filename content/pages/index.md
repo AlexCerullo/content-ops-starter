@@ -177,7 +177,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/ISO_C++_Logo.svg.png
-        altText: Image alt text placeholder
+        altText: C++
         elementId: ''
         styles:
           self:
