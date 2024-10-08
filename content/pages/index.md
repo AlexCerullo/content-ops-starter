@@ -167,7 +167,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
+  - subtitle: Programming Languages
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
