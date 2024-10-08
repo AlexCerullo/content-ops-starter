@@ -197,7 +197,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/76896027f8274f308db258988d625867.webp
+        url: /images/images.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
