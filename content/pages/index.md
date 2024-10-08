@@ -176,7 +176,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/ISO_C++_Logo.svg.png
+        url: /images/abstract-feature2.svg
         altText: Image alt text placeholder
         elementId: ''
         styles:
