@@ -206,7 +206,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Languages
       color: text-dark
       styles:
         self:
