@@ -7,7 +7,7 @@ sections:
       text: Alex Cerullo
       color: text-dark
       type: TitleBlock
-    subtitle: 'Computer Engineer, BaS'
+    subtitle: Computer Engineer
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
