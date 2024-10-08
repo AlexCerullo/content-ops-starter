@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/abstract-background.svg
+      - url: /images/images.jpeg
         altText: Python
         type: ImageBlock
       - url: /images/java-logo1.png
