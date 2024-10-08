@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Computer Engineer
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I'm a sophomore at the University of Illinois at Urbana-Champaign,
+      passionate about problem-solving and innovation. I enjoy taking on
+      challenges and finding creative solutions, whether in the classroom or
+      through personal projects. When I'm not studying, you can find me
+      exploring new technologies and improving my skills.
     actions:
       - label: Get started
         altText: ''
