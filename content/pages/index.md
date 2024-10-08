@@ -201,7 +201,7 @@ sections:
     title:
       type: TitleBlock
       text: Proficient Languages
-      color: text-dark
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
