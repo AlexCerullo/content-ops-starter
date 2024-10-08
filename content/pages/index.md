@@ -206,7 +206,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Languages
+      text: Languages I Code In
       color: text-dark
       styles:
         self:
