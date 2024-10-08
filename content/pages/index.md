@@ -12,7 +12,7 @@ sections:
       I'm a sophomore passionate about problem-solving and innovation. I enjoy
       taking on challenges and finding creative solutions.
     actions:
-      - label: Get started
+      - label: Get
         altText: ''
         url: /
         showIcon: false
