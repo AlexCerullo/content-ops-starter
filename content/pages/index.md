@@ -10,9 +10,7 @@ sections:
     subtitle: Computer Engineer
     text: >
       I'm a sophomore passionate about problem-solving and innovation. I enjoy
-      taking on challenges and finding creative solutions. When I'm not
-      studying, you can find me exploring new technologies and improving my
-      skills.
+      taking on challenges and finding creative solutions.
     actions:
       - label: Get started
         altText: ''
