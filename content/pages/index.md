@@ -178,7 +178,7 @@ sections:
       - url: /images/C_Logo.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/ISO_C++_Logo.svg.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
