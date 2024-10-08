@@ -214,7 +214,7 @@ sections:
     title:
       type: TitleBlock
       text: Programming Languages
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
