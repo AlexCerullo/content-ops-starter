@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: University of illinois at urbana-champaign
       color: text-primary
       type: Badge
     elementId: ''
