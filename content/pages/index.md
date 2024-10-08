@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See TutorialsR
+      - label: Resume
         altText: ''
         url: /
         showIcon: true
