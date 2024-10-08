@@ -197,7 +197,8 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png
+        url: >-
+          /images/png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
