@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Resume
+      - label: Resumé
         altText: ''
         url: /
         showIcon: true
