@@ -175,9 +175,6 @@ sections:
       - url: /images/java-logo1.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/C_Logo.png
-        altText: Vise logo
-        type: ImageBlock
       - type: ImageBlock
         url: /images/ISO_C++_Logo.svg.png
         altText: Image alt text placeholder
