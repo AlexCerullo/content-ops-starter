@@ -9,11 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Computer Engineer
     text: >
-      I'm a sophomore at the University of Illinois at Urbana-Champaign,
-      passionate about problem-solving and innovation. I enjoy taking on
-      challenges and finding creative solutions, whether in the classroom or
-      through personal projects. When I'm not studying, you can find me
-      exploring new technologies and improving my skills.
+      I'm a sophomore passionate about problem-solving and innovation. I enjoy
+      taking on challenges and finding creative solutions. When I'm not
+      studying, you can find me exploring new technologies and improving my
+      skills.
     actions:
       - label: Get started
         altText: ''
