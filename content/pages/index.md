@@ -184,7 +184,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/C_Logo.png
-        altText: Image alt text placeholder
+        altText: C
         elementId: ''
         styles:
           self:
