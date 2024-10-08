@@ -170,7 +170,7 @@ sections:
   - subtitle: ''
     images:
       - url: /images/images.jpeg
-        altText: Empathy logo
+        altText: Python
         type: ImageBlock
       - url: /images/java-logo1.png
         altText: Java
