@@ -173,7 +173,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/java-logo1.png
-        altText: ''
+        altText: Java
         type: ImageBlock
       - type: ImageBlock
         url: /images/ISO_C++_Logo.svg.png
