@@ -172,6 +172,13 @@ sections:
       - url: /images/images.jpeg
         altText: Python
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/java-logo1.png
         altText: Java
         type: ImageBlock
@@ -213,13 +220,6 @@ sections:
       - type: ImageBlock
         url: /images/images.png
         altText: 'HTML, CSS, JS'
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
