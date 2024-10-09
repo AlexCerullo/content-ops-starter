@@ -211,7 +211,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Screenshot 2024-10-08 202605.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
