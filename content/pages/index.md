@@ -204,7 +204,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/images.jpeg
+        url: /images/Screenshot 2024-10-08 202605.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
