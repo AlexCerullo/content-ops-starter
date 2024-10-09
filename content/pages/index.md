@@ -169,7 +169,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/1024px-HD_transparent_picture.png
+      - url: /images/java-logo-hero.webp
         altText: Java
         type: ImageBlock
       - type: ImageBlock
