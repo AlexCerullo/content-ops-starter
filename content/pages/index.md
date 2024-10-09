@@ -380,8 +380,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Alexandre has been a pleasure to work with, displaying
+          professionalism, dedication, and a strong
+
+          work ethic."
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
