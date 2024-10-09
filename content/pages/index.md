@@ -380,36 +380,6 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      altText: Fun feature preview
-      type: ImageBlock
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
