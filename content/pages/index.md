@@ -90,7 +90,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: Full-Stack Developer
+        subtitle: ack Developer
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
