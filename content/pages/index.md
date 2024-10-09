@@ -330,7 +330,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Sales Team Lead
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
