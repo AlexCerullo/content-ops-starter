@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/me_at_budapest.jpg
+      url: /images/me_asf.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
