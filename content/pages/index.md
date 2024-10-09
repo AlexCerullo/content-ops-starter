@@ -402,7 +402,6 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/me_at_budapest.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
