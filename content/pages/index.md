@@ -713,7 +713,7 @@ sections:
       text: Contact.
       color: text-dark
       type: TitleBlock
-    subtitle: GET IN TOUCH
+    subtitle: ''
     text: >
       *Don't hesitate to reach out!*
 
