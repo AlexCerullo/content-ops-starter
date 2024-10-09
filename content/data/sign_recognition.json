@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "name": "Computer Vision AI",
+    "name": "OpenCV",
     "role": "Job title",
     "image": {
         "type": "ImageBlock",
