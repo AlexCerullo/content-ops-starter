@@ -197,13 +197,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
         url: /images/Sql_data_base_with_logo.png
         altText: SQL
         elementId: ''
@@ -213,6 +206,13 @@ sections:
       - type: ImageBlock
         url: /images/images.png
         altText: 'HTML, CSS, JS'
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
