@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/abstract-background.svg
+      - url: /images/images.jpeg
         altText: Python
         type: ImageBlock
       - type: ImageBlock
