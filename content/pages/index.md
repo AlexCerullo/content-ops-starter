@@ -176,15 +176,15 @@ sections:
         altText: Java
         type: ImageBlock
       - type: ImageBlock
-        url: /images/C_Logo.png
-        altText: C
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
+        url: /images/C_Logo.png
+        altText: C
         elementId: ''
         styles:
           self:
