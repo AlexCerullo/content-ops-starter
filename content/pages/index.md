@@ -172,6 +172,9 @@ sections:
       - url: /images/images.jpeg
         altText: Python
         type: ImageBlock
+      - url: /images/java-logo1.png
+        altText: Java
+        type: ImageBlock
       - type: ImageBlock
         url: /images/C_Logo.png
         altText: C
@@ -179,9 +182,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/java-logo1.png
-        altText: Java
-        type: ImageBlock
       - type: ImageBlock
         url: /images/Screenshot 2024-10-08 202605.png
         altText: Image alt text placeholder
