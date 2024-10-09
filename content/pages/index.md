@@ -222,7 +222,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/images.png
+        url: /images/html-5-css-php-and-java-company.png
         altText: 'HTML, CSS, JS'
         elementId: ''
         styles:
