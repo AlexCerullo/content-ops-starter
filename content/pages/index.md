@@ -390,7 +390,7 @@ sections:
           "He consistently met deadlines, communicated well with team members,
           and took the initiative in modernizing outdated systems."
         image:
-          url: /images/1647576169570.jpeg
+          url: /images/1647576169570.png
           altText: Maria Walters
           styles:
             self:
