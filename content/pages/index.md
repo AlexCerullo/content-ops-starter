@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Software Engineer
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
