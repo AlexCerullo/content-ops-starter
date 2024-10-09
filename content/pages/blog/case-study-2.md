@@ -83,7 +83,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: x-small
+    borderRadius: medium
     flexDirection: col
 type: PostLayout
 author: content/data/sign_recognition.json
