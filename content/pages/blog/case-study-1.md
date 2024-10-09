@@ -83,7 +83,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: xx-large
     flexDirection: col
 type: PostLayout
 author: content/data/codepulse.json
