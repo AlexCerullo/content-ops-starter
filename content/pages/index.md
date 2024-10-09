@@ -710,7 +710,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Get In Touch
+      text: Contact.
       color: text-dark
       type: TitleBlock
     subtitle: ''
