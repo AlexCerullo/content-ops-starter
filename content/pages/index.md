@@ -385,7 +385,7 @@ sections:
 
           work ethic."
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Rahul Bhoj, Aroona Solutions Group CEO'
         text: >
           "He consistently met deadlines, communicated well with team members,
           and took the initiative in modernizing outdated systems."
