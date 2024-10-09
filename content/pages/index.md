@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/IMG_9562.jpg
+      url: /images/image.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
