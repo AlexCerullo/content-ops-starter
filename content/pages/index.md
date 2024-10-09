@@ -173,7 +173,6 @@ sections:
         altText: Python
         type: ImageBlock
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
