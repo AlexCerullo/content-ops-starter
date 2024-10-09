@@ -236,7 +236,7 @@ sections:
           self:
             borderRadius: medium
     motion: move-to-left
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
