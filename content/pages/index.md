@@ -173,7 +173,7 @@ sections:
         altText: Java
         type: ImageBlock
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
+        url: /images/1024px-HD_transparent_picture.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
