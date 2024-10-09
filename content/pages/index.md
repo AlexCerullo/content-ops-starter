@@ -211,15 +211,15 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Sql_data_base_with_logo.png
-        altText: SQL
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
+        url: /images/Sql_data_base_with_logo.png
+        altText: SQL
         elementId: ''
         styles:
           self:
