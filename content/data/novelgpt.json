@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "GPT API Integration",
-    "role": "Job title",
+    "role": "Project Lead",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
