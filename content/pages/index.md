@@ -273,6 +273,9 @@ sections:
       type: TitleBlock
       text: Projects
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
