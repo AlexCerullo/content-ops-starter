@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "name": "CodePulse",
+    "name": "VS Code Extension",
     "role": "Job title",
     "image": {
         "type": "ImageBlock",
