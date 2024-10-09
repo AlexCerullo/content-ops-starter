@@ -713,7 +713,7 @@ sections:
       text: Contact.
       color: text-dark
       type: TitleBlock
-    subtitle: Get in touch
+    subtitle: GET IN TOUCH
     text: ''
     media:
       fields:
