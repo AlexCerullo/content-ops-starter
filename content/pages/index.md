@@ -183,6 +183,13 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/C_Logo.png
         altText: C
         elementId: ''
@@ -192,13 +199,6 @@ sections:
       - type: ImageBlock
         url: /images/Sql_data_base_with_logo.png
         altText: SQL
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
