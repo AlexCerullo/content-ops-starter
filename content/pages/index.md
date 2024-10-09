@@ -331,9 +331,25 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Window Wizards
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      *   Led a team of door-to-door sales representatives, driving revenue
+      growth and surpassing sales targets
+
+
+      *   Optimized team routes and schedules, maximizing productivity and
+      coverage. Implemented incentive programs and led strategy meetings to
+      drive sales performance and align with company goals
+
+
+      *   Managed daily operations, including mentoring and training,
+      performance evaluations, and conflict resolution, ensuring a
+      high-performing and motivated team
+
+
+      *   Analyzed sales data to identify trends, refine strategies, and
+      implement best practices, resulting in a consistent increase in customer
+      acquisition and retention
+
     actions:
       - label: Get started
         url: /
