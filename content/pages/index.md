@@ -333,7 +333,7 @@ sections:
       text: Sales Team Lead
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Window Wizards
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
