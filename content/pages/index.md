@@ -377,7 +377,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: ''
     items:
       - title: >-
           "Alexandre has been a pleasure to work with, displaying
