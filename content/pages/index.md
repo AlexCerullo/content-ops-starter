@@ -190,15 +190,15 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/ISO_C++_Logo.svg.png
-        altText: C++
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
+        url: /images/ISO_C++_Logo.svg.png
+        altText: C++
         elementId: ''
         styles:
           self:
