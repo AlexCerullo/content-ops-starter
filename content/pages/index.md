@@ -244,7 +244,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-    motion: move-to-right
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
