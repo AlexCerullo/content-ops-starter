@@ -218,15 +218,15 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/images.png
-        altText: 'HTML, CSS, JS'
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
+        url: /images/images.png
+        altText: 'HTML, CSS, JS'
         elementId: ''
         styles:
           self:
