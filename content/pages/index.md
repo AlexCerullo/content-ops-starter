@@ -387,7 +387,7 @@ sections:
           "He consistently met deadlines, communicated well with team members,
           and took the initiative in modernizing outdated systems."
         image:
-          url: /images/aroona_solutions_logo.jpeg
+          url: /images/aroona_solutions_logo.png
           altText: Maria Walters
           styles:
             self:
