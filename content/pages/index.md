@@ -160,7 +160,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/images.jpeg
+      - url: /images/Python_(programming_language)-Logo.wine.png
         altText: Python
         type: ImageBlock
       - type: ImageBlock
