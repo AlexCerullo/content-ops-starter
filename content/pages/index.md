@@ -176,6 +176,13 @@ sections:
         altText: Java
         type: ImageBlock
       - type: ImageBlock
+        url: /images/Screenshot 2024-10-08 202605.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/ISO_C++_Logo.svg.png
         altText: C++
         elementId: ''
@@ -199,13 +206,6 @@ sections:
       - type: ImageBlock
         url: /images/Sql_data_base_with_logo.png
         altText: SQL
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Screenshot 2024-10-08 202605.png
-        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
