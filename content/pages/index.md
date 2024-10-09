@@ -715,7 +715,7 @@ sections:
       type: TitleBlock
     subtitle: GET IN TOUCH
     text: >
-      Don't hesitate to reach out!
+      *Don't hesitate to reach out!*
 
 
       Whether you have a project in mind, a question, or just want to connect,
