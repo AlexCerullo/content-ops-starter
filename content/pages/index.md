@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Projects
 slug: /
 sections:
   - type: GenericSection
