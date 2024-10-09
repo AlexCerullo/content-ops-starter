@@ -1,7 +1,7 @@
 ---
 title: Sign Recognition
 slug: case-study-2
-date: '2021-12-16'
+date: '2024-05-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
