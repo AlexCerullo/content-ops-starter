@@ -1,15 +1,14 @@
 ---
-title: Case study 3
+title: NovelGPT
 slug: case-study-3
-date: '2021-11-18'
+date: '2024-08-01'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/novelGPTimage.png
   altText: Case study 3
   styles:
     self:
@@ -72,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     padding:
@@ -84,9 +83,10 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: xx-large
     flexDirection: col
 type: PostLayout
+author: content/data/novelgpt.json
 ---
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
