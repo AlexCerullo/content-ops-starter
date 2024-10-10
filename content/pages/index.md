@@ -317,6 +317,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    badge:
+      type: Badge
+      label: August 2024 - Present
+      color: text-primary
   - title:
       text: Sales Team Lead
       color: text-dark
