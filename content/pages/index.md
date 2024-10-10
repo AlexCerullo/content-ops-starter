@@ -438,7 +438,7 @@ sections:
         padding:
           - pt-4
           - pl-7
-          - pb-7
+          - pb-4
           - pr-7
     type: DividerSection
   - title:
