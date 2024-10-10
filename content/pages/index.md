@@ -364,7 +364,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: ''
+      label: May 2022 - August 2023
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
