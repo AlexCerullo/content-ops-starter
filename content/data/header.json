@@ -50,19 +50,7 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
