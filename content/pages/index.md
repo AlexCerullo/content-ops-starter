@@ -55,15 +55,8 @@ sections:
         title: Software Engineer
         subtitle: ''
         text: >
-          Developed and deployed scalable solutions, improving efficiency and
-          reducing processing times by 30%
-
-
-          Led projects from initial design to final implementation, focusing on
-          clean, maintainable code and effective collaboration
-
-
-          Experienced with both backend and frontend technologies
+          Experience in building invoicing systems, automating data integration,
+          and improving processing efficiency
         actions: []
         elementId: null
         colors: bg-dark-fg-light
