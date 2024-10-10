@@ -386,7 +386,7 @@ sections:
           - pr-3
         margin:
           - mt-0
-          - mb-1
+          - mb-0
   - type: CarouselSection
     title: null
     subtitle: ''
