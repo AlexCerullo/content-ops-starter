@@ -83,9 +83,9 @@ sections:
       - title: Full-Stack Developer
         subtitle: ''
         text: >
-          Experience in creating user-friendly interfaces for real-time data
-          updates and edits. Proficient in using Python, SQL, and web
-          technologies to streamline data management processes
+          Experience in creating dynamic, user-friendly interfaces for real-time
+          data management. Proficient in using Python, SQL, and web technologies
+          to develop responsive applications.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
