@@ -268,7 +268,7 @@ sections:
         self:
           textAlign: center
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -310,7 +310,7 @@ sections:
 
     actions: []
     elementId: null
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -367,22 +367,27 @@ sections:
       label: May 2022 - August 2023
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-4
+          - pl-3
+          - pb-4
+          - pr-3
+        margin:
+          - mt-0
+          - mb-0
+          - mr-0
   - type: CarouselSection
     title: null
     subtitle: ''
@@ -420,7 +425,7 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -482,7 +487,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
