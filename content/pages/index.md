@@ -380,9 +380,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-4
+          - pt-5
           - pl-3
-          - pb-4
+          - pb-5
           - pr-3
         margin:
           - mt-0
