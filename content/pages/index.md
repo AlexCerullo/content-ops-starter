@@ -30,7 +30,6 @@ sections:
         style: secondary
         elementId: ''
         type: Link
-        target: '_blank'
     media:
       url: /images/image2.png
       altText: Unblock your team boost your time to production preview
