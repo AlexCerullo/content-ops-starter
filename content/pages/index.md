@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: Full-Stack Developer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Experience in creating user-friendly interfaces for real-time data
+          updates and edits. Proficient in using Python, SQL, and web
+          technologies to streamline data management processes
         image:
           url: /images/icon2.svg
           altText: Featured icon two
