@@ -12,16 +12,7 @@ sections:
       I'm a sophomore passionate about problem-solving and innovation. I enjoy
       taking on challenges and finding creative solutions.
     actions:
-      - label: About me
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Resumé
+      - label: My Resumé
         altText: ''
         url: 'https://alexcerullo.github.io/resume/Alex Cerullo Resume.pdf'
         showIcon: true
@@ -63,10 +54,10 @@ sections:
       - type: FeaturedItem
         title: Software Engineer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Experience in building efficient systems that automate data workflows
+          and reduce manual tasks. Skilled in designing scalable software
+          solutions that improve overall system performance.
         actions: []
         elementId: null
         colors: bg-dark-fg-light
@@ -91,10 +82,10 @@ sections:
               borderRadius: x-large
       - title: Full-Stack Developer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Experience in creating dynamic, user-friendly interfaces for real-time
+          data management. Proficient in using Python, SQL, and web technologies
+          to develop responsive applications.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,10 +107,10 @@ sections:
         type: FeaturedItem
       - title: AI/ML Engineer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Expertise in developing real-time sign recognition systems using
+          OpenCV and computer vision. Experience in applying AI techniques to
+          enhance automation and real-world safety solutions.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -326,6 +317,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    badge:
+      type: Badge
+      label: August 2024 - Present
+      color: text-primary
   - title:
       text: Sales Team Lead
       color: text-dark
@@ -369,7 +364,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: May 2022 - August 2023
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
