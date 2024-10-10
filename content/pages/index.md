@@ -465,6 +465,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
