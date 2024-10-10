@@ -109,8 +109,8 @@ sections:
         subtitle: ''
         text: >
           Expertise in developing real-time sign recognition systems using
-          OpenCV and computer vision techniques. Experience in applying AI to
-          enhance safety with efficient detection under varied conditions
+          OpenCV and computer vision. Experience in applying AI techniques to
+          enhance automation and real-world safety solutions.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
