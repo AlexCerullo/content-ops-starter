@@ -417,7 +417,7 @@ sections:
       subtitle:
         textAlign: center
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
