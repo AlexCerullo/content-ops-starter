@@ -441,8 +441,10 @@ sections:
 
 
       Whether you have a project in mind, a question, or just want to connect,
-      I'd love to hear from you. I'm always open to new opportunities and
-      collaborations.
+      I'd love to hear from you.
+
+
+      I'm always open to new opportunities and collaborations.
     media:
       fields:
         - name: name
