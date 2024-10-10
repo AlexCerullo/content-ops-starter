@@ -271,7 +271,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Projects
+      text: Projects.
       color: text-dark
       styles:
         self:
