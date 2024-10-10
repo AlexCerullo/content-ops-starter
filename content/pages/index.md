@@ -54,7 +54,16 @@ sections:
       - type: FeaturedItem
         title: Software Engineer
         subtitle: ''
-        text: ''
+        text: >
+          Developed and deployed scalable solutions, improving efficiency and
+          reducing processing times by 30%
+
+
+          Led projects from initial design to final implementation, focusing on
+          clean, maintainable code and effective collaboration
+
+
+          Experienced with both backend and frontend technologies
         actions: []
         elementId: null
         colors: bg-dark-fg-light
