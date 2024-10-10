@@ -431,16 +431,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-4
-          - pl-7
-          - pb-4
-          - pr-7
-    type: DividerSection
   - title:
       text: Contact.
       color: text-dark
