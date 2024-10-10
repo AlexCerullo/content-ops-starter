@@ -373,6 +373,17 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: CarouselSection
     title: null
     subtitle: ''
