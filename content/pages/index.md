@@ -12,15 +12,6 @@ sections:
       I'm a sophomore passionate about problem-solving and innovation. I enjoy
       taking on challenges and finding creative solutions.
     actions:
-      - label: About me
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: Resumé
         altText: ''
         url: 'https://alexcerullo.github.io/resume/Alex Cerullo Resume.pdf'
