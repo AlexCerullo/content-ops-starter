@@ -321,17 +321,6 @@ sections:
       type: Badge
       label: August 2024 - Present
       color: text-primary
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - title:
       text: Sales Team Lead
       color: text-dark
@@ -384,6 +373,17 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: CarouselSection
     title: null
     subtitle: ''
