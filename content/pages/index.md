@@ -54,9 +54,13 @@ sections:
       - type: FeaturedItem
         title: Software Engineer
         subtitle: ''
-        text: >
+        text: >+
           Experience in building invoicing systems, automating data integration,
-          and improving processing efficiency
+          and improving processing efficiency. Skilled in developing file
+          scrapers to extract specifications from complex documents
+
+
+
         actions: []
         elementId: null
         colors: bg-dark-fg-light
