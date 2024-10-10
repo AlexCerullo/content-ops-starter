@@ -245,7 +245,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Programming Languages
+      text: ''
       color: text-dark
       styles:
         self:
