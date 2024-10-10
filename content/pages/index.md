@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Resumé
         altText: ''
-        url: /
+        url: '/https://alexcerullo.github.io/resume/Alex Cerullo Resume.pdf'
         showIcon: true
         icon: arrowRight
         iconPosition: right
