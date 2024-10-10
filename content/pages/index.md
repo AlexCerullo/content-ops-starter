@@ -367,7 +367,7 @@ sections:
       label: May 2022 - August 2023
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
