@@ -110,10 +110,10 @@ sections:
         type: FeaturedItem
       - title: AI/ML Engineer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Expertise in developing real-time sign recognition systems using
+          OpenCV and computer vision techniques. Experience in applying AI to
+          enhance safety with efficient detection under varied conditions
         image:
           url: /images/icon3.svg
           altText: Featured icon three
