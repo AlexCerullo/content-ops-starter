@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Work",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Projects",
             "altText": "Careers page",
             "url": "/careers",
