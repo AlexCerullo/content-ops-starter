@@ -335,20 +335,24 @@ sections:
       type: TitleBlock
     subtitle: Aroona Solutions Group
     text: >+
-      *   *   Led the development of a Python-based file scraper to extract
-      parts and specifications from Oil & Gas Equipment Quotations, and built
+      *   Led the development of a Python-based file scraper to extract parts
+      and specifications from Oil & Gas Equipment Quotations, and built
       comprehensive invoicing software to automate invoice generation using
-      scraped data, reducing preparation time by 40%*   Designed and implemented
-      a real-time user interface and built a RESTful API to enable users to edit
-      and amend data via a command-line interface (CLI), ensuring flexible and
-      efficient data manipulation*   Utilized openpyxl to manipulate Excel files
-      and streamline data handling for automated quotation parsing*   Integrated
-      pytesseract for optical character recognition (OCR) and pdfplumber to
-      extract detailed information from PDF quotations with 94% accuracy
+      scraped data, reducing preparation time by 40%
 
 
+      *   Designed and implemented a real-time user interface and built a
+      RESTful API to enable users to edit and amend data via a command-line
+      interface (CLI), ensuring flexible and efficient data manipulation
 
 
+      *   Utilized openpyxl to manipulate Excel files and streamline data
+      handling for automated quotation parsing
+
+
+      *   Integrated pytesseract for optical character recognition (OCR) and
+      pdfplumber to extract detailed information from PDF quotations with 94%
+      accuracy
 
     actions: []
     badge:
