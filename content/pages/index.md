@@ -112,7 +112,7 @@ sections:
           OpenCV and computer vision. Experience in applying AI techniques to
           enhance automation and real-world safety solutions.
         image:
-          url: /images/1-0flvittznpkh8qkj7upleq.png
+          url: /images/1_o7Eihc_uN6L1eZzvVVb7rw.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
