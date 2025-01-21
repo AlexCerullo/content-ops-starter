@@ -330,7 +330,7 @@ sections:
       label: December 2024 - Present
       color: text-primary
   - title:
-      text: Sales Team Lead
+      text: Software Development Lead - Intern
       color: text-dark
       type: TitleBlock
     subtitle: Aroona Solutions Group
