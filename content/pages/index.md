@@ -279,7 +279,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Software Dev Lead
+      text: Machine Learning Developer
       color: text-dark
       styles:
         self:
