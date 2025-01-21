@@ -348,7 +348,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Machine Learning Developer
+      text: Software Development Lead - Intern
       color: text-dark
       styles:
         self:
