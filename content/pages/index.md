@@ -285,7 +285,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Aroona Solutions Group
+    subtitle: InvoGenix
     text: >+
       *   Designing and implementing an AI-powered solution for healthcare
       documentation, automating manual processes
