@@ -327,23 +327,20 @@ sections:
       type: TitleBlock
     subtitle: Window Wizards
     text: >+
-      *   Led a team of door-to-door sales representatives, driving revenue
-      growth and surpassing sales targets
+      *   *   Led the development of a Python-based file scraper to extract
+      parts and specifications from Oil & Gas Equipment Quotations, and built
+      comprehensive invoicing software to automate invoice generation using
+      scraped data, reducing preparation time by 40%*   Designed and implemented
+      a real-time user interface and built a RESTful API to enable users to edit
+      and amend data via a command-line interface (CLI), ensuring flexible and
+      efficient data manipulation*   Utilized openpyxl to manipulate Excel files
+      and streamline data handling for automated quotation parsing*   Integrated
+      pytesseract for optical character recognition (OCR) and pdfplumber to
+      extract detailed information from PDF quotations with 94% accuracy
 
 
-      *   Optimized team routes and schedules, maximizing productivity and
-      coverage. Implemented incentive programs and led strategy meetings to
-      drive sales performance and align with company goals
 
 
-      *   Managed daily operations, including mentoring and training,
-      performance evaluations, and conflict resolution, ensuring a
-      high-performing and motivated team
-
-
-      *   Analyzed sales data to identify trends, refine strategies, and
-      implement best practices, resulting in a consistent increase in customer
-      acquisition and retention
 
     actions:
       - label: Get started
