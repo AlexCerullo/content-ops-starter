@@ -378,7 +378,7 @@ sections:
       - type: Button
         label: Website
         altText: ''
-        url: '/https://www.aroonasolutions.com/'
+        url: 'https://www.aroonasolutions.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
