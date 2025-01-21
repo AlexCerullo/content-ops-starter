@@ -327,7 +327,7 @@ sections:
         textAlign: left
     badge:
       type: Badge
-      label: August 2024 - Present
+      label: December 2024 - Present
       color: text-primary
   - title:
       text: Sales Team Lead
