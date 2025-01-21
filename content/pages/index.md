@@ -338,6 +338,14 @@ sections:
       type: Badge
       label: December 2024 - Present
       color: text-primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
       text: Software Development Lead - Intern
       color: text-dark
