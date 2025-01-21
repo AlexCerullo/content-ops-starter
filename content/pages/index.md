@@ -316,7 +316,16 @@ sections:
       *   Ensuring HIPAA compliance by implementing de-identification protocols
       for patient data and ensuring data encryption for ethical data handling
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://invo-genix.vercel.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: null
     colors: bg-neutral-fg-dark
     styles:
