@@ -356,7 +356,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Website
         altText: ''
         url: '/https://www.aroonasolutions.com/'
         showIcon: false
