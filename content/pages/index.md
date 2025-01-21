@@ -364,10 +364,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
     badge:
       label: May 2022 - August 2023
       color: text-primary
