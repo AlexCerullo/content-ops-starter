@@ -112,7 +112,7 @@ sections:
           OpenCV and computer vision. Experience in applying AI techniques to
           enhance automation and real-world safety solutions.
         image:
-          url: /images/1024px-Neural_network.svg_-1.png
+          url: /images/1-0flvittznpkh8qkj7upleq.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
