@@ -318,7 +318,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Website
         altText: ''
         url: '/https://invo-genix.vercel.app/'
         showIcon: false
