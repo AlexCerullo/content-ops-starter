@@ -87,7 +87,7 @@ sections:
           data management. Proficient in using Python, SQL, and web technologies
           to develop responsive applications.
         image:
-          url: /images/390337-200.png
+          url: /images/stack-icon-2048x2048-7bmccv3l.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
