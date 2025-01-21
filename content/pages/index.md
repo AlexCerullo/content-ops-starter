@@ -354,7 +354,16 @@ sections:
       pdfplumber to extract detailed information from PDF quotations with 94%
       accuracy
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://www.aroonasolutions.com/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       label: May 2022 - August 2023
       color: text-primary
