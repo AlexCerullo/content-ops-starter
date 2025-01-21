@@ -76,7 +76,8 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/305098.png
+          url: >-
+            /images/blue-gear-icon-settings-95ika14z6tyfyes5-95ika14z6tyfyes5.png
           styles:
             self:
               borderRadius: x-large
