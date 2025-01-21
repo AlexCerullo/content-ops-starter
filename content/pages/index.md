@@ -287,26 +287,34 @@ sections:
       type: TitleBlock
     subtitle: Aroona Solutions Group
     text: >+
+      *   Designing and implementing an AI-powered solution for healthcare
+      documentation, automating manual processes
 
 
-      *   Led the development of a Python-based file scraper to extract parts
-      and specifications from Oil & Gas Equipment Quotations, and built
-      comprehensive invoicing software to automate invoice generation using
-      scraped data, reducing preparation time by 40%
+      *   Leading the development of client-side interaction tools for real-time
+      transcription using OpenAI Whisper
 
 
-      *   Designed and implemented a real-time user interface and built a
-      RESTful API to enable users to edit and amend data via a command-line
-      interface (CLI), ensuring flexible and efficient data manipulation
+      *   Directing the integration of natural language processing (NLP)
+      techniques, utilizing spaCy and scikit-learn to transform raw transcripts
+      into structured clinical notes
 
 
-      *   Utilized openpyxl to manipulate Excel files and streamline data
-      handling for automated quotation parsing
+      *   Developing machine learning algorithms and transformer architectures
+      using PyTorch, focusing on text classification
 
 
-      *   Integrated pytesseract for optical character recognition (OCR) and
-      pdfplumber to extract detailed information from PDF quotations with 94%
-      accuracy
+      *   Applying advanced NLP and deep learning techniques, including
+      tokenization, entity extraction, and TF-IDF vectorization to process
+      medical text data and train deep-learning models
+
+
+      *   Fine-tuning Google’s Bert models for Named Entity Recognition (NER)
+      tasks using Hugging Face’s Transformers library
+
+
+      *   Ensuring HIPAA compliance by implementing de-identification protocols
+      for patient data and ensuring data encryption for ethical data handling
 
     actions: []
     elementId: null
