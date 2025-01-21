@@ -350,14 +350,7 @@ sections:
 
 
 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     badge:
       label: May 2022 - August 2023
       color: text-primary
