@@ -76,7 +76,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/305098.png
           styles:
             self:
               borderRadius: x-large
@@ -87,7 +87,7 @@ sections:
           data management. Proficient in using Python, SQL, and web technologies
           to develop responsive applications.
         image:
-          url: /images/icon2.svg
+          url: /images/stack-icon-2048x2048-7bmccv3l.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -112,7 +112,7 @@ sections:
           OpenCV and computer vision. Experience in applying AI techniques to
           enhance automation and real-world safety solutions.
         image:
-          url: /images/icon3.svg
+          url: /images/1_o7Eihc_uN6L1eZzvVVb7rw.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -262,7 +262,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Projects.
+      text: Projects
       color: text-dark
       styles:
         self:
@@ -279,16 +279,82 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Software Dev Lead
+      text: Machine Learning Developer
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
+    subtitle: InvoGenix
+    text: >+
+      *   Designing and implementing an AI-powered solution for healthcare
+      documentation, automating manual processes
+
+
+      *   Leading the development of client-side interaction tools for real-time
+      transcription using OpenAI Whisper
+
+
+      *   Directing the integration of natural language processing (NLP)
+      techniques, utilizing spaCy and scikit-learn to transform raw transcripts
+      into structured clinical notes
+
+
+      *   Developing machine learning algorithms and transformer architectures
+      using PyTorch, focusing on text classification
+
+
+      *   Applying advanced NLP and deep learning techniques, including
+      tokenization, entity extraction, and TF-IDF vectorization to process
+      medical text data and train deep-learning models
+
+
+      *   Fine-tuning Google’s Bert models for Named Entity Recognition (NER)
+      tasks using Hugging Face’s Transformers library
+
+
+      *   Ensuring HIPAA compliance by implementing de-identification protocols
+      for patient data and ensuring data encryption for ethical data handling
+
+    actions:
+      - type: Button
+        label: Website
+        altText: ''
+        url: '/https://invo-genix.vercel.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    elementId: null
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+    badge:
+      type: Badge
+      label: December 2024 - Present
+      color: text-primary
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Software Development Lead - Intern
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
     subtitle: Aroona Solutions Group
     text: >+
-
-
       *   Led the development of a Python-based file scraper to extract parts
       and specifications from Oil & Gas Equipment Quotations, and built
       comprehensive invoicing software to automate invoice generation using
@@ -308,8 +374,27 @@ sections:
       pdfplumber to extract detailed information from PDF quotations with 94%
       accuracy
 
-    actions: []
-    elementId: null
+    actions:
+      - type: Button
+        label: Website
+        altText: ''
+        url: 'https://www.aroonasolutions.com/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+    badge:
+      type: Badge
+      label: Aug 2024 - nov 2024
+      color: text-primary
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -317,62 +402,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-    badge:
-      type: Badge
-      label: August 2024 - Present
-      color: text-primary
-  - title:
-      text: Sales Team Lead
-      color: text-dark
-      type: TitleBlock
-    subtitle: Window Wizards
-    text: >+
-      *   Led a team of door-to-door sales representatives, driving revenue
-      growth and surpassing sales targets
-
-
-      *   Optimized team routes and schedules, maximizing productivity and
-      coverage. Implemented incentive programs and led strategy meetings to
-      drive sales performance and align with company goals
-
-
-      *   Managed daily operations, including mentoring and training,
-      performance evaluations, and conflict resolution, ensuring a
-      high-performing and motivated team
-
-
-      *   Analyzed sales data to identify trends, refine strategies, and
-      implement best practices, resulting in a consistent increase in customer
-      acquisition and retention
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: May 2022 - August 2023
-      color: text-primary
-      type: Badge
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - type: DividerSection
     title: Divider
     elementId: ''
