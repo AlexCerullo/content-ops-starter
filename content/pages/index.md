@@ -345,6 +345,73 @@ sections:
       styles:
         self:
           borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Machine Learning Developer
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: InvoGenix
+    text: >+
+      *   Designing and implementing an AI-powered solution for healthcare
+      documentation, automating manual processes
+
+
+      *   Leading the development of client-side interaction tools for real-time
+      transcription using OpenAI Whisper
+
+
+      *   Directing the integration of natural language processing (NLP)
+      techniques, utilizing spaCy and scikit-learn to transform raw transcripts
+      into structured clinical notes
+
+
+      *   Developing machine learning algorithms and transformer architectures
+      using PyTorch, focusing on text classification
+
+
+      *   Applying advanced NLP and deep learning techniques, including
+      tokenization, entity extraction, and TF-IDF vectorization to process
+      medical text data and train deep-learning models
+
+
+      *   Fine-tuning Google’s Bert models for Named Entity Recognition (NER)
+      tasks using Hugging Face’s Transformers library
+
+
+      *   Ensuring HIPAA compliance by implementing de-identification protocols
+      for patient data and ensuring data encryption for ethical data handling
+
+    actions:
+      - type: Button
+        label: Website
+        altText: ''
+        url: '/https://invo-genix.vercel.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+    badge:
+      type: Badge
+      label: December 2024 - Present
+      color: text-primary
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title:
       text: Software Development Lead - Intern
       color: text-dark
