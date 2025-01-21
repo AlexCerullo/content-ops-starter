@@ -393,7 +393,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: December 2024 - Present
+      label: August - november 2024
       color: text-primary
     colors: bg-neutral-fg-dark
     styles:
