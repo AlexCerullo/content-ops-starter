@@ -333,7 +333,7 @@ sections:
       text: Sales Team Lead
       color: text-dark
       type: TitleBlock
-    subtitle: Window Wizards
+    subtitle: Aroona Solutions Group
     text: >+
       *   *   Led the development of a Python-based file scraper to extract
       parts and specifications from Oil & Gas Equipment Quotations, and built
