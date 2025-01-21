@@ -112,8 +112,7 @@ sections:
           OpenCV and computer vision. Experience in applying AI techniques to
           enhance automation and real-world safety solutions.
         image:
-          url: >-
-            /images/a-stylized-brain-design-filled-with-a-circuit-pattern-symbolizing-technology-intelligence-and-connectivity-png.webp
+          url: /images/brain_circuit_filled_icon_200878.webp
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
